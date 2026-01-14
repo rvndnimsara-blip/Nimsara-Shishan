@@ -1,1 +1,3 @@
-print("Hello! This is my first Python program on GitHub.")
+# hello.py
+
+print("Hello, welcome to my GitHub repository!")
