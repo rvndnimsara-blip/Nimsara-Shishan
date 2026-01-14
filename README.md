@@ -1,4 +1,4 @@
-# python 
+# Hello python 
 this is for basic coding
 # Purpose of the Repository 
 This repository contains basic Python scripts designed for learning and practicing fundamental programming concepts.
